@@ -20,7 +20,7 @@ For CDN paste this code just above ```</body>``` section of your template -
 
 ```
 <script src="https://cdn.rawgit.com/nitishkgupta/shortam/7dadd3c2/shortam.js" type="text/javascript"></script>
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/nitishkgupta/shortam/e768d61e/shortam.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/nitishkgupta/shortam/6d99d347/shortam.css"/>
 ```
 
 # Documentation
