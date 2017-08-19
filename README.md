@@ -57,4 +57,4 @@ Use this code to add buttons
 
 # License
 
-MIT (c) 2014 Nitishk Gupta
+MIT License
