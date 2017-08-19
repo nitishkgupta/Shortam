@@ -3,5 +3,5 @@
 .shortam-bg-blue {background: #03a9f4;color: #fff;}
 .shortam-bg-red {background: #f44336;color: #fff;}
 .shortam-bg-orange {background: #ff9800;color: #fff;}
-.shortam-bt {padding: 10px;text-decoration: none;font-size: 20px;font-family: roboto;border-radius: 4px;}
+.shortam-bt {transition:.2s;padding: 10px;text-decoration: none;font-size: 20px;font-family: roboto;border-radius: 4px;}
 .shortam-bt:active {background: black;color: #fff;}
