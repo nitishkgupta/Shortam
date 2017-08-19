@@ -30,7 +30,7 @@ For CDN paste this code just above ```</body>``` section of your template -
 Use this code to add alerts -
 
 ```
-[alert width="70" type="green" text="test"]
+[alert id="test" width="70" type="green" text="test"]
 ```
 
 <B>Customisations -</b>
@@ -38,13 +38,14 @@ Use this code to add alerts -
 1) width="70" // Width of alert in percentage (in this case 70%)
 2) type="green" // Theme of alert (Supported - green/blue/red/orange)
 3) text="test" // Text to be shown inside alert box (can be html)
+4) id="test" // Adds id to the object for extra usage (optional, leave blank for null)
 
 ## Buttons
 
 Use this code to add buttons
 
 ```
-[bt type="green" href="http://abc.com" text="Download" target="_blank"]
+[bt id="test" type="green" href="http://abc.com" text="Download" target="_blank"]
 ```
 <B>Customisations -</b>
 
@@ -52,3 +53,4 @@ Use this code to add buttons
 2) href="http://abc.com" // Target of link (Use #! for null)
 3) text="test" // Text to be shown inside button (can be html)
 4) target="_blank" // Target of link (Supported - all html target values)
+5) id="test" // Adds id to the object for extra usage (optional, leave blank for null)
