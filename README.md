@@ -54,3 +54,7 @@ Use this code to add buttons
 3) text="test" // Text to be shown inside button (can be html)
 4) target="_blank" // Target of link (Supported - all html target values)
 5) id="test" // Adds id to the object for extra usage (optional, leave blank for null)
+
+# License
+
+MIT (c) 2014 Nitishk Gupta
