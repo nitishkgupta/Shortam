@@ -55,6 +55,12 @@ Use this code to add buttons
 4) target="_blank" // Target of link (Supported - all html target values)
 5) id="test" // Adds id to the object for extra usage (optional, leave blank for null)
 
+# Upcoming Features
+
+1) Bootstrap 4 support
+2) More custom elements
+3) Much more
+
 # License
 
 MIT License
