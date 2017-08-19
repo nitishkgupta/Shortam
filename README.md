@@ -1,7 +1,7 @@
 # Shortam
 Shortam is a simple and light front-end shortcode framework built on vanilla JavaScript and CSS. 
 
-Shortcodes are provided using shortcode.js (https://github.com/nicinabox/shortcode.js)
+This project uses shortcode.js (https://github.com/nicinabox/shortcode.js) for building shortcodes.
 
 <b>Note - Shortam is currently under developement (don't use it now in production)</b>
 
