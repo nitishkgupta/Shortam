@@ -5,6 +5,8 @@ This project uses shortcode.js (https://github.com/nicinabox/shortcode.js) for b
 
 <b>Note - Shortam is currently under developement (don't use it now in production)</b>
 
+<b>Note - Shortam uses ```Roboto``` Google font for it's components. Be sure to include it in your project.</b>
+
 # Features
 1) Very Light
 2) Currently in developement
