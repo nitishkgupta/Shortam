@@ -2,7 +2,7 @@
  * Shortam 0.1
  * by @nitishkgupta
  * License: MIT
- * Github: https://github.com/nitishkgupta/shortam
+ * Github: https://github.com/nitishkgupta/Shortam
  */
 
 var Shortcode = function(el, tags) {
