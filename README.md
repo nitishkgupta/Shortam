@@ -10,15 +10,11 @@ This project uses shortcode.js (https://github.com/nicinabox/shortcode.js) for b
 
 ## Features
 
-1) Very Light
-
-2) Currently in developement
-
-3) More components coming soon
-
-4) Custom shortcodes support
-
-5) And much more
+1. Very Light
+2. Currently in developement
+3. More components coming soon
+4. Custom shortcodes support
+5. And much more
 
 ## Documentation
 
@@ -32,13 +28,10 @@ Use this code to add alerts -
 
 <B>Customisations -</b>
 
-1) width="70" // Width of alert in percentage (in this case 70%)
-
-2) type="green" // Theme of alert (Supported - green/blue/red/orange)
-
-3) text="test" // Text to be shown inside alert box (can be html)
-
-4) id="test" // Adds id to the object for extra usage (optional, leave blank for null)
+1. width="70" // Width of alert in percentage (in this case 70%)
+2. type="green" // Theme of alert (Supported - green/blue/red/orange)
+3. text="test" // Text to be shown inside alert box (can be html)
+4. id="test" // Adds id to the object for extra usage (optional, leave blank for null)
 
 ### Buttons
 
@@ -49,23 +42,17 @@ Use this code to add buttons
 ```
 <B>Customisations -</b>
 
-1) type="green" // Theme of button (Supported - green/blue/red/orange)
-
-2) href="http://abc.com" // Target of link (Use #! for null)
-
-3) text="test" // Text to be shown inside button (can be html)
-
-4) target="_blank" // Target of link (Supported - all html target values)
-
-5) id="test" // Adds id to the object for extra usage (optional, leave blank for null)
+1. type="green" // Theme of button (Supported - green/blue/red/orange)
+2. href="http://abc.com" // Target of link (Use #! for null)
+3. text="test" // Text to be shown inside button (can be html)
+4. target="_blank" // Target of link (Supported - all html target values)
+5. id="test" // Adds id to the object for extra usage (optional, leave blank for null)
 
 ## Upcoming Features
 
-1) Bootstrap 4 support
-
-2) More custom elements
-
-3) Much more
+1. Bootstrap 4 support
+2. More custom elements
+3. Much more
 
 ## License
 
