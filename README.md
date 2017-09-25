@@ -1,4 +1,4 @@
-# Shortam
+## Shortam
 
 Shortam is a simple and light front-end shortcode framework built on vanilla JavaScript and CSS. 
 
@@ -8,7 +8,7 @@ This project uses shortcode.js (https://github.com/nicinabox/shortcode.js) for b
 
 <b>Note - Shortam uses ```Roboto``` Google font for it's components. Be sure to include it in your project.</b>
 
-# Features
+## Features
 
 1) Very Light
 
@@ -20,9 +20,9 @@ This project uses shortcode.js (https://github.com/nicinabox/shortcode.js) for b
 
 5) And much more
 
-# Documentation
+## Documentation
 
-## Alerts
+### Alerts
 
 Use this code to add alerts -
 
@@ -40,7 +40,7 @@ Use this code to add alerts -
 
 4) id="test" // Adds id to the object for extra usage (optional, leave blank for null)
 
-## Buttons
+### Buttons
 
 Use this code to add buttons
 
@@ -59,7 +59,7 @@ Use this code to add buttons
 
 5) id="test" // Adds id to the object for extra usage (optional, leave blank for null)
 
-# Upcoming Features
+## Upcoming Features
 
 1) Bootstrap 4 support
 
@@ -67,6 +67,6 @@ Use this code to add buttons
 
 3) Much more
 
-# License
+## License
 
 MIT License
